@@ -1,4 +1,6 @@
 TES BIKIN CABANG
 - COBA 1
+^ Masih belum bisa
+^ Masih bingung
 - COBA 2
 - COBA 3
